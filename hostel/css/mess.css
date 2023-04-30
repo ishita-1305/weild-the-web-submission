@@ -1,0 +1,34 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.background
+{
+    background: rgba(0,0,0,0.5) url(mess.jpeg);
+background-size: cover;
+background-blend-mode: darken;
+}
+.mess
+{
+margin: auto;
+color:white;
+align-items: center;
+text-align: center;
+justify-content: center;
+height:100vh;
+}
+h1{
+padding: 20px;
+margin-bottom: 50px;
+font-size: 100px;
+}
+h2{
+    align-items: flex-end;
+}
+table
+{
+    border: 1px solid black;
+    width: 100%;
+    height: 50%;
+    }
+
